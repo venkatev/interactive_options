@@ -4,10 +4,10 @@
 # Author:: Vikram Venkatesan
 #
 # === Introduction
-# InteractionOptions can be used for getting user input in an interactive fashion by displaying the user a list of available options and asking to choose one among them.
+# InteractiveOptions can be used for getting user input in an interactive fashion by displaying the user a list of available options and asking to choose one among them.
 #
 # === Basic example
-#   InteractionOptions.get_option(
+#   InteractiveOptions.get_option(
 #     'zone', [
 #       {name: 'East',  custom_value: 10},
 #       {name: 'West',  custom_value: 11}
