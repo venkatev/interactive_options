@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name          = 'interactive_options'
   s.version       = '0.0.1'
   s.date          = '2014-06-26'
-  s.summary       = "Interaction Options"
+  s.summary       = "Interactive Options Library"
   s.description   = "Library for getting interactive user input from a list of available options."
   s.authors       = ["Vikram Venkatesan"]
   s.email         = 's.venkat.vikram@gmail.com'
