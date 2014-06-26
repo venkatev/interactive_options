@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = 'interactive_option'
+  s.name          = 'interactive_options'
   s.version       = '0.0.1'
   s.date          = '2014-06-26'
   s.summary       = "Interaction Options"
